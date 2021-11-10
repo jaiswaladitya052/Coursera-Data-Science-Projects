@@ -1,5 +1,5 @@
 # **Coursera Guided Projects**
-Note: Stated below are the descriptions of the projects as given on the Coursera website
+### Note: Stated below are the descriptions of the projects as given on the Coursera website
 
 ## [Computer Vision - Object Detection with OpenCV and Python](https://github.com/shejz/Coursera-guided-projects/tree/master/Computer%20Vision%20-%20Object%20Detection%20with%20OpenCV%20and%20Python)
 
